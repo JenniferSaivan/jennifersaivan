@@ -1,4 +1,4 @@
-## Oi! Eu sou jennifer 🌙
+## Oi! Eu sou Jennifer 🌙
 
  <div>
      <a href="https://github.com/jennifersaivan">
