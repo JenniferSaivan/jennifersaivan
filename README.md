@@ -1,4 +1,5 @@
 ## Oi! Eu sou Jennifer 🌙
+Vai um café? ☕
 
  <div>
      <a href="https://github.com/jennifersaivan">
