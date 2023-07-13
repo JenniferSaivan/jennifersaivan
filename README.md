@@ -1,5 +1,5 @@
 ## Oi! Eu sou Jennifer 🌙
-Vai um café? ☕
+Going for a coffee? ☕
 
  <div>
      <a href="https://github.com/jennifersaivan">
